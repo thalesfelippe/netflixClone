@@ -25,7 +25,7 @@
 
 ```bash
   # Clone the project
-  $ git clone https://github.com/thalesfelippe/PokedexJS
+  $ git clone https://github.com/thalesfelippe/netflixClone
 ```
 ---
 
